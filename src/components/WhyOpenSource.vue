@@ -189,14 +189,14 @@
       </p>
       <ul class="mission-list">
         <li><strong>Democratize access to technology education</strong> by providing free, high-quality learning resources</li>
-        <li><strong>Promote open source culture</strong> among students and the wider community</li>
-        <li><strong>Provide hands-on experience</strong> with real projects that students can contribute to</li>
-        <li><strong>Build a supportive community</strong> where students can learn from each other</li>
+        <li><strong>Promote open source culture</strong> among individuals and the wider community</li>
+        <li><strong>Provide hands-on experience</strong> with real projects that individuals can contribute to</li>
+        <li><strong>Build a supportive community</strong> where individuals can learn from each other</li>
         <li><strong>Bridge the gap between academia and industry</strong> by teaching practical skills that are in high demand</li>
         <li><strong>Increase Uruguay's visibility</strong> in the global open source ecosystem</li>
       </ul>
       <p>
-        We believe that everyone should have access to quality technological education, regardless of their background or economic situation. By embracing open source, we not only give students access to powerful tools but also teach them how to contribute to and benefit from the global software development community.
+        We believe that everyone should have access to quality technological education, regardless of their background or economic situation. By embracing open source, we not only give individuals access to powerful tools but also teach them how to contribute to and benefit from the global software development community.
       </p>
     </section>
   </div>
