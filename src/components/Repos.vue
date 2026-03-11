@@ -47,7 +47,7 @@ export default {
     return {
       repos: [
         {
-          name: 'fingdev.github.io',
+          name: 'librecourseuy.github.io',
           icon: '🌐',
           description: 'The official LibrecourseUY community portal. This website you are visiting right now.',
           tech: ['Vue.js 3', 'Vue Router', 'Vite', 'JavaScript'],
@@ -57,9 +57,9 @@ export default {
             'Documentation resources',
             'Contribution guide'
           ],
-          github: 'https://github.com/LibrecourseUY/fingdev.github.io',
+          github: 'https://github.com/LibrecourseUY/librecourseuy.github.io',
           demo: 'https://librecourseuy.github.io',
-          deepwiki: 'https://deepwiki.com/LibrecourseUY/fingdev.github.io'
+          deepwiki: 'https://deepwiki.com/LibrecourseUY/finglibrecourseuydev.github.io'
         },
         {
           name: 'fingcomms',

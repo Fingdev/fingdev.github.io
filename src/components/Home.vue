@@ -128,8 +128,8 @@
     <section class="quick-links">
       <h2>Our Projects</h2>
       <div class="links-grid">
-        <a href="https://github.com/LibrecourseUY/fingdev.github.io" target="_blank" class="link-card">
-          <h4>fingdev.github.io</h4>
+        <a href="https://github.com/LibrecourseUY/librecourseuy.github.io" target="_blank" class="link-card">
+          <h4>librecourseuy.github.io</h4>
           <p>This website - The LibrecourseUY community portal</p>
         </a>
         <a href="https://github.com/LibrecourseUY/fingcomms" target="_blank" class="link-card">
