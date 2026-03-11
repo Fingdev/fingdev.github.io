@@ -43,7 +43,7 @@
     </main>
     <footer class="footer">
       <p>Made with ❤️ by LibrecourseUY Community</p>
-      <p>Open Source projects for Engineering Students at UdelaR</p>
+      <p>Open Source projects</p>
       <p class="license">Licensed under <a href="https://opensource.org/licenses/MIT" target="_blank">MIT License</a></p>
     </footer>
   </div>
