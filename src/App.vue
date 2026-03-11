@@ -8,6 +8,7 @@
         </router-link>
         <div class="nav-links" :class="{ 'nav-open': menuOpen }">
           <router-link to="/" @click="menuOpen = false">Home</router-link>
+          <router-link to="/why-open-source" @click="menuOpen = false">Why Open Source</router-link>
           <div class="nav-dropdown">
             <button class="dropdown-trigger" @click="dropdownOpen = !dropdownOpen">
               Learn <span class="dropdown-arrow">▾</span>

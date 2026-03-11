@@ -11,6 +11,7 @@ import HowToLearn from './components/HowToLearn.vue'
 import Licensing from './components/Licensing.vue'
 import Linux from './components/Linux.vue'
 import CLA from './components/CLA.vue'
+import WhyOpenSource from './components/WhyOpenSource.vue'
 
 const routes = [
   { path: '/', component: Home },
@@ -22,7 +23,8 @@ const routes = [
   { path: '/docs', component: Docs },
   { path: '/docs/signing', component: Signing },
   { path: '/docs/licensing', component: Licensing },
-  { path: '/CLA', component: CLA }
+  { path: '/CLA', component: CLA },
+  { path: '/why-open-source', component: WhyOpenSource }
 ]
 
 const router = createRouter({
